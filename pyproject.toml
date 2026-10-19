@@ -1,0 +1,16 @@
+[project]
+name = "election-hex-mapping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "carto-flow>=2.0.0",
+    "cartogram>=1.0.2",
+    "geopandas>=1.2.0",
+    "marimo>=0.25.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "seaborn>=0.13.2",
+]
